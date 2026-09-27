@@ -33,8 +33,3 @@ No build-system or framework-specific command is assumed in this README.
 Developed as a **team project**. Amirreza Alimoradian participated as a team member; the repository represents collaborative work rather than sole authorship. Repository history and original project materials provide the basis for contributor attribution.
 
 This is an educational application inspired by Snappfood and is not presented as an official Snappfood product.
-
-## Contact
-
-**Amirreza Alimoradian**  
-[GitHub](https://github.com/amr-alm) · [Email](mailto:amirreza_alimoradian@ee.sharif.edu)
